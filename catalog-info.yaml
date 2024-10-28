@@ -14,7 +14,7 @@ metadata:
     backstage.io/kubernetes-id: go3 
     backstage.io/techdocs-ref: dir:.
     quay.io/repository-slug: jduimovich0/bootstrap
-    github.com/project-slug northdepot/go3
+    github.com/project-slug: northdepot/go3
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
